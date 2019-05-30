@@ -26,10 +26,12 @@
     "create-react-app": "^3.0.1",
     "express": "^4.17.0",
     "localtunnel": "^1.9.1",
+    "lodash": "^4.17.11",
     "mongoose": "^5.5.10",
     "nodemon": "^1.19.0",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^2.0.0",
+    "path-parser": "^2.0.2",
     "redux": "^4.0.1",
     "sendgrid": "^5.2.3",
     "stripe": "^6.36.0"
